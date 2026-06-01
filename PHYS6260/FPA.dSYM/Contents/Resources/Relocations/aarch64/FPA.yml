@@ -1,0 +1,5 @@
+---
+triple:          'arm64-apple-darwin'
+binary-path:     '/Users/luisrojascastillo/Downloads/PanGPLinux-6.1.4-c9/PHYS6260/FPA'
+relocations:     []
+...
